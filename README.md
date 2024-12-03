@@ -1,0 +1,2 @@
+# socialMediya
+ TR | Bu Python kodu, kullanıcıların kayıt olup giriş yapabileceği, birbirlerini arkadaş olarak ekleyip mesaj gönderebileceği basit bir sosyal medya simülatörüdür. Kullanıcılar, arkadaşlık ilişkileri kurarak, yalnızca arkadaşlarına mesaj gönderebilir ve gelen mesajları görebilir. ENG | This Python code is a simple social media simulator where users can register, log in, add each other as friends and send messages. By establishing friendship relationships, users can send messages and view incoming messages only to their friends.
